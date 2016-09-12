@@ -1,0 +1,26 @@
+{
+  "name": "gulp-inline-svg",
+  "version": "1.0.0",
+  "description": "Embed svg to css using Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "svg",
+    "css",
+    "inline-svg"
+  ],
+  "author": "Nam Tran <nam.trankhanh.vn@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^1.1.0",
+    "lodash": "^4.15.0",
+    "sprintf": "^0.1.5",
+    "sprintf-js": "^1.0.3",
+    "through2": "^2.0.1",
+    "xml2js": "^0.4.17",
+    "xmlbuilder": "^8.2.2"
+  }
+}
