@@ -23,7 +23,9 @@ module.exports = function buildXml(json) {
 
 function traverse(tags, root) {
   for(var i in tags) {
+
     var item = root.ele(tags[i]['#name'], tags[i]['$'])
+    console.log(item);
     if (tags[i].$$) traverse(tags[i].$$, item)
   }
 }

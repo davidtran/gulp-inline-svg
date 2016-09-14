@@ -1,5 +1,5 @@
 {
-  "name": "gulp-inline-svg",
+  "name": "gulp-embed-svg-inline",
   "version": "1.0.0",
   "description": "Embed svg to css using Gulp",
   "main": "index.js",
@@ -15,6 +15,7 @@
   "author": "Nam Tran <nam.trankhanh.vn@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^0.22.0",
     "cli-color": "^1.1.0",
     "lodash": "^4.15.0",
     "sprintf": "^0.1.5",
