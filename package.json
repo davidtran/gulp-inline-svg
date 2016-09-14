@@ -1,6 +1,6 @@
 {
   "name": "gulp-embed-svg-inline",
-  "version": "1.0.1",
+  "version": "1.1",
   "description": "Embed svg to css using Gulp",
   "main": "index.js",
   "scripts": {
