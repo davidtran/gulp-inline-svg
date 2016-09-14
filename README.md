@@ -47,7 +47,7 @@ Example using function:
   }
 }))
 ```
-Example using class name:
+Example using mask string:
 ```js
 ...
 .pipe(inlineSvg({

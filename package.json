@@ -1,16 +1,26 @@
 {
   "name": "gulp-embed-svg-inline",
-  "version": "1.1",
+  "version": "1.1.1",
   "description": "Embed svg to css using Gulp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidtran/gulp-inline-svg"
+  },
+  "bugs": {
+    "url": "https://github.com/davidtran/gulp-inline-svg/issues",
+    "email": "nam.trankhanh.vn@gmail.com"
+  },
   "keywords": [
     "gulp",
     "svg",
     "css",
-    "inline-svg"
+    "inline-svg",
+    "inline",
+    "base64"
   ],
   "author": "Nam Tran <nam.trankhanh.vn@gmail.com>",
   "license": "ISC",
